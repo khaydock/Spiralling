@@ -81,9 +81,9 @@ function draw() {
 }
 
   function keyPressed() {
-    if (key == "s") {
-      saveGif('capitalspiral.gif', 50)
+    // if (key == "s") {
+      // saveGif('capitalspiral.gif', 50)
       // Note: be sure to use current version of p5.js
       // to convert gif to mp4 use https://ezgif.com/gif-to-mp4/ezgif-1-ce23aea223.gif
-    }
+    // }
   }
